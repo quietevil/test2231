@@ -1,4 +1,4 @@
-# test2231
-
-testemail@trendmicro.com
-Password: 1234567
+username = trendph\timothyf
+password = Wowowowow123!
+domain = wowowow.trendmicro.com
+email = rainman@trendmicro.com
