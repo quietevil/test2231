@@ -1,5 +1,4 @@
-username = trendph\timothyf
-password = Wowowowow123!
+username = trendph\testuser
+password = testingpassword123!
 domain = wowowow.trendmicro.com
 email = rainman@trendmicro.com
-need to pick this up
